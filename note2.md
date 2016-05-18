@@ -26,3 +26,6 @@ DEX2JAR
 
 Android git博客
 [Android张扬](https://github.com/hongyangAndroid)
+[Android Studio插件-自动根据布局生成Activity等代码(插件代码开源)](http://www.jianshu.com/p/3993aac140c5)
+[Android Studio插件-自动根据布局生成Activity等代码(插件代码开源)GIT](https://github.com/fhaoquan/BorePlugin.git)
+[Android ID http://www.codota.com/](http://www.codota.com/android/scenarios/52fcbdadda0a8dd19668f9e0/android.widget.ProgressBar?tag=dragonfly)
