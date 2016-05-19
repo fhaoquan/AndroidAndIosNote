@@ -29,3 +29,7 @@ Android git博客
 [Android Studio插件-自动根据布局生成Activity等代码(插件代码开源)](http://www.jianshu.com/p/3993aac140c5)
 [Android Studio插件-自动根据布局生成Activity等代码(插件代码开源)GIT](https://github.com/fhaoquan/BorePlugin.git)
 [Android ID http://www.codota.com/](http://www.codota.com/android/scenarios/52fcbdadda0a8dd19668f9e0/android.widget.ProgressBar?tag=dragonfly)
+
+
+[FACEBOOK_IOS_sdk](https://github.com/facebook/facebook-ios-sdk.git)
+[FACEBOOK_ARD_sdk](https://github.com/facebook/facebook-android-sdk.git)
